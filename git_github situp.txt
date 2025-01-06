@@ -1,0 +1,30 @@
+To install Git software
+
+1. go to github and create your account
+
+2. create repository by clicking + icon and selecting new repository
+
+3. copy repositoryURL
+
+4. go to folder/directory where you want to save your repository/folde
+
+5. go to addressbar, type cmd and hit enter
+
+6. git clone repositoryURL
+
+7. go to cloned repository
+
+8. add something to it
+
+9. git status
+
+10. git add .
+
+11. git commit -m"any_message"
+
+git push origin main
+
+if getting an authorization error then try the following:
+
+1. git config --global user.name "apka apna username"
+2. git config --global user.email "apka apna email"
